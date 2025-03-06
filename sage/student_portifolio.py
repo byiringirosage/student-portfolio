@@ -48,12 +48,7 @@ if 'bio' not in st.session_state:
 # Home section
 if page == "Home":
     st.title("🧑‍🎓 Student Profile")
-    # Profile image
-    uploaded_image = st.file_uploader("Upload Profile Picture", type=["jpg", "png"])
-    if uploaded_image is not None:
-        st.image(uploaded_image, width=150, caption="Uploaded image")
-    else:
-        st.image("sage.jpg", width=150, caption="Default image")
+    st.image("sage.jpg", width=150, caption="Default image")
 
     # Display profile details
     st.subheader("📌 Personal Details")
