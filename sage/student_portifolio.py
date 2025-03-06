@@ -91,30 +91,30 @@ elif page == "Projects":
     
     project_data = {
         "Year 1 Project": {
-            "📊 Data Analysis Project": {
+            "📊 e-portofolio-v1": {
                 "type": "Individual",
-                "description": "A project analyzing trends of Rwanda GDP accounts using Pandas and Matplotlib.",
-                "link": "https://github.com/sage-byiringi/year1-gdp-analysis"
+                "description": "I have developed a site where you can view my progfile .",
+                "link": "https://github.com/byiringirosage/e-portofolio-v1"
             }
         },
         "Year 2 Project": {
             "🤖 AI Chatbot": {
                 "type": "Group",
-                "description": "Developed an AI-powered chatbot using Python and NLP techniques.",
-                "link": "https://github.com/sage-byiringi/ai-chatbot"
+                "description": "Together with my  collegues we developed a site where you can view our profile & what we have developed together.",
+                "link": "https://github.com/byiringirosage/YEAR-II-C"
             }
         },
         "Year 3 Project": {
             "🌐 ASA Ines Website": {
                 "type": "Group",
                 "description": "Designed and developed a website for ASA Ines RUHENGERI Adventist Church.",
-                "link": "https://github.com/sage-byiringi/asa-ines-website"
+                "link": "https://github.com/byiringirosage/Group-4"
             }
         },
         "Dissertation": {
-            "🌍 Wildlife Safaris Website": {
+            "🌍 Dashboard for african Insurances": {
                 "type": "Individual",
-                "description": "Designed and developed a website for a wildlife tour company.",
+                "description": "Under development.",
                 "link": "https://github.com/sage-byiringi/wildlife-safaris-website"
             }
         }
